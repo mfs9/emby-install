@@ -1,4 +1,4 @@
-# Emby
+# Script para instalar o Emby
 
 O Emby é um servidor de mídia pessoal e plataforma de streaming de código aberto. Ele permite que você organize, transmita e acesse seu acervo de filmes, programas de TV, músicas e fotos em vários dispositivos, como smart TVs, dispositivos móveis e navegadores da web. O Emby oferece uma maneira conveniente de gerenciar e desfrutar de sua biblioteca de mídia pessoal, tornando-se uma alternativa popular para serviços de streaming comercializados.
 
